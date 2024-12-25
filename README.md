@@ -17,8 +17,6 @@ A simple VBS file that can activate any Windows 10 operating system, without a l
 
 ## Authors
 
-Contributors names and contact info
-
 DestroyedOfficial  
 
 ## Version History
