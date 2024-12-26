@@ -1,11 +1,11 @@
 @echo off
-title Windows 10 Pro Aktivalo By Destroyed
+title Windows 10 Activate By Destroyed
 cls
 echo.
 echo.
 echo.
-echo      Varj egy kicsit es aktivalva lesz a Windows, amit majd a nemsoka felugro ablakokban is latni fogsz.
-echo      Nyomj meg barmilyen gombot, hogy elkezdd az aktivalast
+echo      Wait for a while, the activating is not instant, it can be 30 seconds, or more.
+echo      Press any button to start the activation
 echo.
 echo.
 pause >nul
